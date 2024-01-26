@@ -6,6 +6,3 @@ Exercícios - II
 
 3) Faça um código que permita realizar a divisão entre dois números. Exiba em tela o resultado, exibia também os valores do (Dividendo, Divisor, Quociente e Resto) (considere investigar a divisão por zero).
 
-4) Faça um código em Python para calcular a área e o volume do cone 
-
-5) Faça um código em Python para calcular a área e o volume da pirâmide. 
